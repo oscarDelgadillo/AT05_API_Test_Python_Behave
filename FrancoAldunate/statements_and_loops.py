@@ -77,7 +77,7 @@ def sum_to_n(n):
     print(f"n = {n}")
     sum = 0
     val = 0
-    while val < n + 1:
+    while val < n + ONE:
         sum += val
         if val == THIRTY_SIX:
             print("val is greater than 35")
