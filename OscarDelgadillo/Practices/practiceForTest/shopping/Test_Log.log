@@ -1,0 +1,40 @@
+2018-01-23 17:17:22,832 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:17:22,833 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:17:22,833 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:17:22,833 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:17:22,833 - practiceForTest.shopping.store - INFO - Show products of store
+2018-01-23 17:17:56,080 - practiceForTest.shopping.store - INFO - item 001 available for sell
+2018-01-23 17:17:56,081 - practiceForTest.shopping.store - DEBUG - Product 001 was sold
+2018-01-23 17:17:56,081 - practiceForTest.shopping.store - INFO - Get item: 001
+2018-01-23 17:18:10,749 - practiceForTest.shopping.store - INFO - Show products of store
+2018-01-23 17:22:36,809 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:22:36,809 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:22:36,809 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:22:36,810 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:22:36,810 - practiceForTest.shopping.store - INFO - Show products of store
+2018-01-23 17:22:41,332 - practiceForTest.shopping.store - INFO - item 003 available for sell
+2018-01-23 17:22:41,332 - practiceForTest.shopping.store - DEBUG - Product 003 was sold
+2018-01-23 17:22:41,332 - practiceForTest.shopping.store - INFO - Get item: 003
+2018-01-23 17:22:42,757 - practiceForTest.shopping.store - INFO - Show products of store
+2018-01-23 17:25:54,441 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:25:54,442 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:25:54,442 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:25:54,442 - practiceForTest.shopping.store - DEBUG - Adding product to store
+2018-01-23 17:25:54,442 - practiceForTest.shopping.store - INFO - Show products of store
+2018-01-23 17:25:59,457 - practiceForTest.shopping.store - INFO - item 001 available for sell
+2018-01-23 17:25:59,458 - practiceForTest.shopping.product - INFO - Get amount 10
+2018-01-23 17:25:59,458 - practiceForTest.shopping.product - DEBUG - Set amount 8
+2018-01-23 17:25:59,458 - practiceForTest.shopping.store - DEBUG - Product 001 was sold
+2018-01-23 17:25:59,458 - practiceForTest.shopping.store - INFO - Get item: 001
+2018-01-23 17:25:59,458 - practiceForTest.shopping.product - INFO - Get price 12.5
+2018-01-23 17:26:05,255 - practiceForTest.shopping.store - INFO - item 003 available for sell
+2018-01-23 17:26:05,255 - practiceForTest.shopping.product - INFO - Get amount 5
+2018-01-23 17:26:05,256 - practiceForTest.shopping.product - DEBUG - Set amount 2
+2018-01-23 17:26:05,256 - practiceForTest.shopping.store - DEBUG - Product 003 was sold
+2018-01-23 17:26:05,256 - practiceForTest.shopping.store - INFO - Get item: 003
+2018-01-23 17:26:05,256 - practiceForTest.shopping.product - INFO - Get price 124.2
+2018-01-23 17:26:06,496 - practiceForTest.shopping.product - INFO - Get price 12.5
+2018-01-23 17:26:06,496 - practiceForTest.shopping.product - INFO - Get amount 2
+2018-01-23 17:26:06,497 - practiceForTest.shopping.product - INFO - Get price 124.2
+2018-01-23 17:26:06,497 - practiceForTest.shopping.product - INFO - Get amount 3
+2018-01-23 17:26:06,497 - practiceForTest.shopping.store - INFO - Show products of store
