@@ -1,0 +1,41 @@
+1. Research:
+	a) When and why BDD was defined?
+		
+		BDD born with the finallity of replace JUnit at the end of 2003, the idea was removed reference to testing and replaced with vocabulary based in a behaviour
+
+	b) The most important aspects of BDD
+
+		One of the most important aspects is that you can use words of the business domain easy to understand technical people and not, this help with the missunderstanding between all involved. Part of the documentation is in the same code eg name of methods they are always update. Also we can said that is focus in behavior that in this way assures us how it should work
+		
+	c) Why is useful and when could be applied.
+
+		BDD is very useful for test complete scenarios and the behavior of the classes for acomplish this scenarios by running automated tests
+
+
+	d) Which type of teams could implement BDD
+
+		Any type of teams is able to implement BDD because the languaje ubiquos that use is easier for the implementation
+
+
+2. Structure of a feature – Give an example
+
+	Feature: Login in outlook
+
+3. Structure of a user story – Give an example
+	
+	As a user registered
+	I want login into outlook
+	So that can see my inbox 
+
+4. Structure of a scenario – Give an example
+
+	Given I navigate to login page of outolook
+    When I login as "<User Name>" with password "<Password>"
+    Then I should login successfully
+
+5. Differences between BDD and BDT
+
+The main idea of BDD is how software development should be managed by commercial interests and technical knowledge, it is a software development process based on evidence based development (TDD).
+BDT allows describing the behavior of a system without detailing how such behavior is implemented.
+
+
