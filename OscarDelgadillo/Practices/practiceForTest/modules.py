@@ -19,7 +19,7 @@ mod.ageMessages.getAgeMessage(age)
 print("---------------- THREE ----------------")
 
 
-# 3.Create a script importing both modules and performing de action :
+# 3.Create a script importing both mod and performing de action :
 # Ask to the user the amount of users
 # For all users define the name and the age for each one, save this data as a dictionary
 # After all users are defined, need to :
